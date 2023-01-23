@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/jadon/Coding/Data Structures/practice/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -o CMakeFiles/IntCell.dir/main.cpp.o -c \"/mnt/c/Users/jadon/Coding/Data Structures/practice/main.cpp\"",
+  "file": "/mnt/c/Users/jadon/Coding/Data Structures/practice/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jadon/Coding/Data Structures/practice/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -o CMakeFiles/IntCell.dir/IntCell.cpp.o -c \"/mnt/c/Users/jadon/Coding/Data Structures/practice/IntCell.cpp\"",
+  "file": "/mnt/c/Users/jadon/Coding/Data Structures/practice/IntCell.cpp"
+}
+]
