@@ -19,6 +19,7 @@ int main()
 
     test.write(12);
     cout << test.read() << "\n";
+    cout<<test.read()<<"\n";
 
     return 0;
 }
